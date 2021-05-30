@@ -1,0 +1,5 @@
+1. npm i @react-navigation/native -> React Navigation
+2. expo i expo-image-picker -> Image Picker (Camera + Gallery)
+3. npm i @expo/vector-icons -> Vector Icons
+4. npm i react-native-textarea -> Text Area
+5. npm i axios -> Axios to fetch data from backend
