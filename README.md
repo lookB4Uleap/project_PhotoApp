@@ -1,9 +1,6 @@
 # PHOTOAPP
 
-![IMG_1](IMG_1.jpg)
-![IMG_2](IMG_2.jpg)
-![IMG_3](IMG_3.jpg)
-![IMG_4](IMG_4.jpg)
+![IMG](PROJECT_IMAGE.png)
 
 Demo Video : https://drive.google.com/file/d/11KexoyrjjrNejqJ2I8p-xYCWGAZpMNUf/view?usp=sharing
 
