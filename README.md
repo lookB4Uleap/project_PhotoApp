@@ -17,5 +17,3 @@ To connect this frontend to the backend server I utitlized the axios module.
 To build this app I used an Expo SDK module known as ImagePicker (check it out: https://docs.expo.io/versions/v41.0.0/sdk/imagepicker/).
 Also React Navigation is used to create screens.
 I Also used a module known as react-native-textarea (check it out: https://www.npmjs.com/package/react-native-textarea).
-
-Check the PackagesInstalled.txt to know about all additional modules used.
